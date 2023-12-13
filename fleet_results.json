@@ -1,0 +1,1552 @@
+[
+    {
+        "price": 0.4826,
+        "EC2 Type": "spot",
+        "region": "us-east-2",
+        "instances": [
+            {
+                "onDemandPrice": 1.982,
+                "region": "us-east-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "5%-10%",
+                "interruption_frequency_filter": 1.0,
+                "spot_price": 0.2413,
+                "Price_per_CPU": 0.010054166666666666,
+                "Price_per_memory": 0.0025135416666666665,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.982,
+                "region": "us-east-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "5%-10%",
+                "interruption_frequency_filter": 1.0,
+                "spot_price": 0.2413,
+                "Price_per_CPU": 0.010054166666666666,
+                "Price_per_memory": 0.0025135416666666665,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.4826,
+        "EC2 Type": "spot",
+        "region": "us-east-2",
+        "instances": [
+            {
+                "onDemandPrice": 1.982,
+                "region": "us-east-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "5%-10%",
+                "interruption_frequency_filter": 1.0,
+                "spot_price": 0.2413,
+                "Price_per_CPU": 0.010054166666666666,
+                "Price_per_memory": 0.0025135416666666665,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.982,
+                "region": "us-east-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "5%-10%",
+                "interruption_frequency_filter": 1.0,
+                "spot_price": 0.2413,
+                "Price_per_CPU": 0.010054166666666666,
+                "Price_per_memory": 0.0025135416666666665,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.5025,
+        "EC2 Type": "spot",
+        "region": "us-east-2",
+        "instances": [
+            {
+                "onDemandPrice": 1.982,
+                "region": "us-east-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "5%-10%",
+                "interruption_frequency_filter": 1.0,
+                "spot_price": 0.2413,
+                "Price_per_CPU": 0.010054166666666666,
+                "Price_per_memory": 0.0025135416666666665,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.982,
+                "region": "us-east-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "5%-10%",
+                "interruption_frequency_filter": 1.0,
+                "spot_price": 0.2413,
+                "Price_per_CPU": 0.010054166666666666,
+                "Price_per_memory": 0.0025135416666666665,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 0.133,
+                "region": "us-east-2",
+                "cpu": "2",
+                "ebsOnly": true,
+                "family": "Memory optimized",
+                "memory": "15.25",
+                "network": "Up to 10 Gigabit",
+                "os": "Linux",
+                "typeMajor": "r4",
+                "typeMinor": "large",
+                "storage": "EBS only",
+                "typeName": "r4.large",
+                "physicalProcessor": "Intel Xeon E5-2686 v4 (Broadwell)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<5%",
+                "interruption_frequency_filter": 0.0,
+                "spot_price": 0.0199,
+                "Price_per_CPU": 0.00995,
+                "Price_per_memory": 0.0013049180327868854,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.708,
+        "EC2 Type": "spot",
+        "region": "us-east-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-east-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-east-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.708,
+        "EC2 Type": "spot",
+        "region": "us-east-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-east-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-east-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.708,
+        "EC2 Type": "spot",
+        "region": "us-west-2",
+        "instances": [
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-west-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-west-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.708,
+        "EC2 Type": "spot",
+        "region": "us-west-2",
+        "instances": [
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-west-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-west-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7419,
+        "EC2 Type": "spot",
+        "region": "us-east-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-east-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-east-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 0.133,
+                "region": "us-east-1",
+                "cpu": "2",
+                "ebsOnly": true,
+                "family": "Memory optimized",
+                "memory": "15.25",
+                "network": "Up to 10 Gigabit",
+                "os": "Linux",
+                "typeMajor": "r4",
+                "typeMinor": "large",
+                "storage": "EBS only",
+                "typeName": "r4.large",
+                "physicalProcessor": "Intel Xeon E5-2686 v4 (Broadwell)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<5%",
+                "interruption_frequency_filter": 0.0,
+                "spot_price": 0.0339,
+                "Price_per_CPU": 0.01695,
+                "Price_per_memory": 0.002222950819672131,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.742,
+        "EC2 Type": "spot",
+        "region": "us-west-2",
+        "instances": [
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-west-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.18,
+                "region": "us-west-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.354,
+                "Price_per_CPU": 0.01475,
+                "Price_per_memory": 0.007375,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 0.133,
+                "region": "us-west-2",
+                "cpu": "2",
+                "ebsOnly": true,
+                "family": "Memory optimized",
+                "memory": "15.25",
+                "network": "Up to 10 Gigabit",
+                "os": "Linux",
+                "typeMajor": "r4",
+                "typeMinor": "large",
+                "storage": "EBS only",
+                "typeName": "r4.large",
+                "physicalProcessor": "Intel Xeon E5-2686 v4 (Broadwell)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<5%",
+                "interruption_frequency_filter": 0.0,
+                "spot_price": 0.034,
+                "Price_per_CPU": 0.017,
+                "Price_per_memory": 0.002229508196721312,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7446,
+        "EC2 Type": "spot",
+        "region": "ap-south-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.241,
+                "region": "ap-south-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3723,
+                "Price_per_CPU": 0.0155125,
+                "Price_per_memory": 0.00775625,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.241,
+                "region": "ap-south-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3723,
+                "Price_per_CPU": 0.0155125,
+                "Price_per_memory": 0.00775625,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7446,
+        "EC2 Type": "spot",
+        "region": "ap-south-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.241,
+                "region": "ap-south-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3723,
+                "Price_per_CPU": 0.0155125,
+                "Price_per_memory": 0.00775625,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.241,
+                "region": "ap-south-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3723,
+                "Price_per_CPU": 0.0155125,
+                "Price_per_memory": 0.00775625,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7524,
+        "EC2 Type": "spot",
+        "region": "eu-north-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.254,
+                "region": "eu-north-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3762,
+                "Price_per_CPU": 0.015674999999999998,
+                "Price_per_memory": 0.007837499999999999,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.254,
+                "region": "eu-north-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3762,
+                "Price_per_CPU": 0.015674999999999998,
+                "Price_per_memory": 0.007837499999999999,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7524,
+        "EC2 Type": "spot",
+        "region": "eu-north-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.254,
+                "region": "eu-north-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3762,
+                "Price_per_CPU": 0.015674999999999998,
+                "Price_per_memory": 0.007837499999999999,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.254,
+                "region": "eu-north-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3762,
+                "Price_per_CPU": 0.015674999999999998,
+                "Price_per_memory": 0.007837499999999999,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7552,
+        "EC2 Type": "spot",
+        "region": "ap-northeast-2",
+        "instances": [
+            {
+                "onDemandPrice": 2.436,
+                "region": "ap-northeast-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3776,
+                "Price_per_CPU": 0.015733333333333332,
+                "Price_per_memory": 0.003933333333333333,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 2.436,
+                "region": "ap-northeast-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3776,
+                "Price_per_CPU": 0.015733333333333332,
+                "Price_per_memory": 0.003933333333333333,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7552,
+        "EC2 Type": "spot",
+        "region": "ap-northeast-2",
+        "instances": [
+            {
+                "onDemandPrice": 2.436,
+                "region": "ap-northeast-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3776,
+                "Price_per_CPU": 0.015733333333333332,
+                "Price_per_memory": 0.003933333333333333,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 2.436,
+                "region": "ap-northeast-2",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3776,
+                "Price_per_CPU": 0.015733333333333332,
+                "Price_per_memory": 0.003933333333333333,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7715,
+        "EC2 Type": "spot",
+        "region": "ap-south-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.241,
+                "region": "ap-south-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3723,
+                "Price_per_CPU": 0.0155125,
+                "Price_per_memory": 0.00775625,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.241,
+                "region": "ap-south-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3723,
+                "Price_per_CPU": 0.0155125,
+                "Price_per_memory": 0.00775625,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 0.0896,
+                "region": "ap-south-1",
+                "cpu": "4",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "16",
+                "network": "Up to 5 Gigabit",
+                "os": "Linux",
+                "typeMajor": "t4g",
+                "typeMinor": "xlarge",
+                "storage": "EBS only",
+                "typeName": "t4g.xlarge",
+                "physicalProcessor": "AWS Graviton2 Processor",
+                "processorArchitecture": "64-bit",
+                "Architecture": "arm64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<5%",
+                "interruption_frequency_filter": 0.0,
+                "spot_price": 0.0269,
+                "Price_per_CPU": 0.006725,
+                "Price_per_memory": 0.00168125,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7754,
+        "EC2 Type": "spot",
+        "region": "us-west-1",
+        "instances": [
+            {
+                "onDemandPrice": 2.3124,
+                "region": "us-west-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3877,
+                "Price_per_CPU": 0.016154166666666667,
+                "Price_per_memory": 0.004038541666666667,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 2.3124,
+                "region": "us-west-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3877,
+                "Price_per_CPU": 0.016154166666666667,
+                "Price_per_memory": 0.004038541666666667,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7754,
+        "EC2 Type": "spot",
+        "region": "us-west-1",
+        "instances": [
+            {
+                "onDemandPrice": 2.3124,
+                "region": "us-west-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3877,
+                "Price_per_CPU": 0.016154166666666667,
+                "Price_per_memory": 0.004038541666666667,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 2.3124,
+                "region": "us-west-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3877,
+                "Price_per_CPU": 0.016154166666666667,
+                "Price_per_memory": 0.004038541666666667,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7824,
+        "EC2 Type": "spot",
+        "region": "eu-north-1",
+        "instances": [
+            {
+                "onDemandPrice": 1.254,
+                "region": "eu-north-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3762,
+                "Price_per_CPU": 0.015674999999999998,
+                "Price_per_memory": 0.007837499999999999,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 1.254,
+                "region": "eu-north-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "Machine Learning ASIC Instances",
+                "memory": "48",
+                "network": "25 Gigabit",
+                "os": "Linux",
+                "typeMajor": "inf1",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "inf1.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8275CL (Cascade Lake)",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<20%",
+                "interruption_frequency_filter": 4.0,
+                "spot_price": 0.3762,
+                "Price_per_CPU": 0.015674999999999998,
+                "Price_per_memory": 0.007837499999999999,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 0.134,
+                "region": "eu-north-1",
+                "cpu": "2",
+                "ebsOnly": true,
+                "family": "Memory optimized",
+                "memory": "16",
+                "network": "Up to 10 Gigabit",
+                "os": "Linux",
+                "typeMajor": "r5",
+                "typeMinor": "large",
+                "storage": "EBS only",
+                "typeName": "r5.large",
+                "physicalProcessor": "Intel Xeon Platinum 8175",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "<5%",
+                "interruption_frequency_filter": 0.0,
+                "spot_price": 0.03,
+                "Price_per_CPU": 0.015,
+                "Price_per_memory": 0.001875,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "price": 0.7848,
+        "EC2 Type": "spot",
+        "region": "ap-southeast-1",
+        "instances": [
+            {
+                "onDemandPrice": 2.478,
+                "region": "ap-southeast-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3924,
+                "Price_per_CPU": 0.01635,
+                "Price_per_memory": 0.0040875,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp1"
+                    }
+                ]
+            },
+            {
+                "onDemandPrice": 2.478,
+                "region": "ap-southeast-1",
+                "cpu": "24",
+                "ebsOnly": true,
+                "family": "General purpose",
+                "memory": "96",
+                "network": "50 Gigabit",
+                "os": "Linux",
+                "typeMajor": "m5zn",
+                "typeMinor": "6xlarge",
+                "storage": "EBS only",
+                "typeName": "m5zn.6xlarge",
+                "physicalProcessor": "Intel Xeon Platinum 8252",
+                "processorArchitecture": "64-bit",
+                "Architecture": "x86_64",
+                "discount": 0,
+                "CloudProvider": "AWS",
+                "interruption_frequency": "10%-15%",
+                "interruption_frequency_filter": 2.0,
+                "spot_price": 0.3924,
+                "Price_per_CPU": 0.01635,
+                "Price_per_memory": 0.0040875,
+                "components": [
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp2"
+                    },
+                    {
+                        "appName": "App1",
+                        "componentName": "Comp3"
+                    }
+                ]
+            }
+        ]
+    }
+]
